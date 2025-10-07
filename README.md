@@ -6,7 +6,6 @@ I originally implemented the same algorithm in **MATLAB** for a graduate class, 
 
 ## Files
 - `rosenbrock_steepest_descent.py` – main optimization script  
-- `rosenbrock_path.png` – example contour plot showing the optimization path
 
 ## Run
 ```bash
